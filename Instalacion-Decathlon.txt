@@ -1,0 +1,9 @@
+Instalación del Proyecto:
+-	Se adjunta archivo comprimido (Decathlon-test.zip) – aplicación, BD
+-	En la carpeta decathlon copiar la carpeta completa en htdocs (xampp) o www (Wamp)
+-	También, se puede descargar o clonar el proyecto disponible en https://github.com/nehomar85/decathlon-test 
+-	Importar a la base de datos (MySql) el archivo BD-Decathlon.sql
+-	Para cambiar las credenciales de conexión a la BD, se debe modificar el archivo /connection/bd.php  (está por defecto root y el esquema decathlon)
+-	Para la aplicación los datos del login son:
+o	Administrador: admin@dominio.com 	password: 123456
+o	Usuario: prueba@dominio.com	password: 123456
